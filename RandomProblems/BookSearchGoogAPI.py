@@ -35,7 +35,7 @@ def main():
     """
     Main function to interact with the user.
     """
-    api_key = "AIzaSyB8GZ7wFlGsCExG5Ccdz3pgwswjooO7zV0"
+    api_key = "enter your api key"
     book_name = input("Enter the name of the book: ")
     books = get_book_details(book_name, api_key)
 
