@@ -22,6 +22,7 @@ def containsWord(word, string):
         return False
 
 word = "cat"
-string = "dogcat"
+string = ("care"
+          "")
 
 print(containsWord(word, string))
